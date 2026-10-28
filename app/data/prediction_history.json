@@ -1,0 +1,162 @@
+[
+  {
+    "date": "22-09-2026",
+    "prediction_direction": "up",
+    "actual_direction": "down",
+    "prediction_status": "wrong",
+    "closing_price": 86198.05,
+    "next_closing_price": 84292.74
+  },
+  {
+    "date": "21-09-2026",
+    "prediction_direction": "up",
+    "actual_direction": "up",
+    "prediction_status": "correct",
+    "closing_price": 86576.95,
+    "next_closing_price": 86198.05
+  },
+  {
+    "date": "20-09-2026",
+    "prediction_direction": "down",
+    "actual_direction": "up",
+    "prediction_status": "wrong",
+    "closing_price": 80458.82,
+    "next_closing_price": 86576.95
+  },
+  {
+    "date": "19-09-2026",
+    "prediction_direction": "up",
+    "actual_direction": "up",
+    "prediction_status": "correct",
+    "closing_price": 81105.04,
+    "next_closing_price": 80458.82
+  },
+  {
+    "date": "18-09-2026",
+    "prediction_direction": "up",
+    "actual_direction": "up",
+    "prediction_status": "correct",
+    "closing_price": 77312.13,
+    "next_closing_price": 81105.04
+  },
+  {
+    "date": "17-09-2026",
+    "prediction_direction": "down",
+    "actual_direction": "up",
+    "prediction_status": "wrong",
+    "closing_price": 76364.56,
+    "next_closing_price": 77312.13
+  },
+  {
+    "date": "16-09-2026",
+    "prediction_direction": "down",
+    "actual_direction": "down",
+    "prediction_status": "correct",
+    "closing_price": 75755.41,
+    "next_closing_price": 76364.56
+  },
+  {
+    "date": "15-09-2026",
+    "prediction_direction": "up",
+    "actual_direction": "up",
+    "prediction_status": "correct",
+    "closing_price": 77659.58,
+    "next_closing_price": 75755.41
+  },
+  {
+    "date": "14-09-2026",
+    "prediction_direction": "down",
+    "actual_direction": "up",
+    "prediction_status": "wrong",
+    "closing_price": 77566.50,
+    "next_closing_price": 77659.58
+  },
+  {
+    "date": "13-09-2026",
+    "prediction_direction": "down",
+    "actual_direction": "down",
+    "prediction_status": "correct",
+    "closing_price": 77176.07,
+    "next_closing_price": 77566.50
+  },
+  {
+    "date": "12-09-2026",
+    "prediction_direction": "up",
+    "actual_direction": "up",
+    "prediction_status": "correct",
+    "closing_price": 77259.23,
+    "next_closing_price": 77176.07
+  },
+  {
+    "date": "11-09-2026",
+    "prediction_direction": "up",
+    "actual_direction": "down",
+    "prediction_status": "wrong",
+    "closing_price": 76865.74,
+    "next_closing_price": 77259.23
+  },
+  {
+    "date": "10-09-2026",
+    "prediction_direction": "down",
+    "actual_direction": "down",
+    "prediction_status": "correct",
+    "closing_price": 78290.20,
+    "next_closing_price": 76865.74
+  },
+  {
+    "date": "09-09-2026",
+    "prediction_direction": "down",
+    "actual_direction": "down",
+    "prediction_status": "correct",
+    "closing_price": 78619.71,
+    "next_closing_price": 78290.20
+  },
+  {
+    "date": "08-09-2026",
+    "prediction_direction": "up",
+    "actual_direction": "down",
+    "prediction_status": "wrong",
+    "closing_price": 78875.21,
+    "next_closing_price": 78619.71
+  },
+  {
+    "date": "07-09-2026",
+    "prediction_direction": "down",
+    "actual_direction": "down",
+    "prediction_status": "correct",
+    "closing_price": 79580.52,
+    "next_closing_price": 78875.21
+  },
+  {
+    "date": "06-09-2026",
+    "prediction_direction": "up",
+    "actual_direction": "up",
+    "prediction_status": "correct",
+    "closing_price": 80031.87,
+    "next_closing_price": 79580.52
+  },
+  {
+    "date": "05-09-2026",
+    "prediction_direction": "down",
+    "actual_direction": "down",
+    "prediction_status": "correct",
+    "closing_price": 79596.26,
+    "next_closing_price": 80031.87
+  },
+  {
+    "date": "04-09-2026",
+    "prediction_direction": "up",
+    "actual_direction": "up",
+    "prediction_status": "correct",
+    "closing_price": 80870.00,
+    "next_closing_price": 79596.26
+  },
+  {
+    "date": "03-09-2026",
+    "prediction_direction": "up",
+    "actual_direction": "down",
+    "prediction_status": "wrong",
+    "closing_price": 77673.95,
+    "next_closing_price": 80870.00
+  }
+]

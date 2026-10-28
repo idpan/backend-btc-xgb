@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "ATR",
+    "batch": 1
+  },
+  {
+    "id": 2,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "ATR",
+    "batch": 1
+  },
+  {
+    "id": 3,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "ATR",
+    "batch": 1
+  },
+  {
+    "id": 4,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "ATR",
+    "batch": 1
+  },
+  {
+    "id": 5,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "ATR",
+    "batch": 1
+  },
+  {
+    "id": 6,
+    "nodes": 37,
+    "leaves": 19,
+    "root": "ATR",
+    "batch": 1
+  },
+  {
+    "id": 7,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "ATR",
+    "batch": 1
+  },
+  {
+    "id": 8,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "ATR",
+    "batch": 1
+  },
+  {
+    "id": 9,
+    "nodes": 31,
+    "leaves": 16,
+    "root": "ATR",
+    "batch": 1
+  },
+  {
+    "id": 10,
+    "nodes": 37,
+    "leaves": 19,
+    "root": "ATR",
+    "batch": 1
+  },
+  {
+    "id": 11,
+    "nodes": 35,
+    "leaves": 18,
+    "root": "ATR",
+    "batch": 2
+  },
+  {
+    "id": 12,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "ATR",
+    "batch": 2
+  },
+  {
+    "id": 13,
+    "nodes": 37,
+    "leaves": 19,
+    "root": "ATR",
+    "batch": 2
+  },
+  {
+    "id": 14,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "ATR",
+    "batch": 2
+  },
+  {
+    "id": 15,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "ATR",
+    "batch": 2
+  },
+  {
+    "id": 16,
+    "nodes": 41,
+    "leaves": 21,
+    "root": "ATR",
+    "batch": 2
+  },
+  {
+    "id": 17,
+    "nodes": 27,
+    "leaves": 14,
+    "root": "OBV",
+    "batch": 2
+  },
+  {
+    "id": 18,
+    "nodes": 27,
+    "leaves": 14,
+    "root": "OBV",
+    "batch": 2
+  },
+  {
+    "id": 19,
+    "nodes": 47,
+    "leaves": 24,
+    "root": "OBV",
+    "batch": 2
+  },
+  {
+    "id": 20,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "ATR",
+    "batch": 2
+  },
+  {
+    "id": 21,
+    "nodes": 23,
+    "leaves": 12,
+    "root": "ATR",
+    "batch": 3
+  },
+  {
+    "id": 22,
+    "nodes": 45,
+    "leaves": 23,
+    "root": "OBV",
+    "batch": 3
+  },
+  {
+    "id": 23,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "MACD_Signal",
+    "batch": 3
+  },
+  {
+    "id": 24,
+    "nodes": 23,
+    "leaves": 12,
+    "root": "ATR",
+    "batch": 3
+  },
+  {
+    "id": 25,
+    "nodes": 41,
+    "leaves": 21,
+    "root": "OBV",
+    "batch": 3
+  },
+  {
+    "id": 26,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "MACD_Signal",
+    "batch": 3
+  },
+  {
+    "id": 27,
+    "nodes": 37,
+    "leaves": 19,
+    "root": "MACD_Signal",
+    "batch": 3
+  },
+  {
+    "id": 28,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "ATR",
+    "batch": 3
+  },
+  {
+    "id": 29,
+    "nodes": 41,
+    "leaves": 21,
+    "root": "OBV",
+    "batch": 3
+  },
+  {
+    "id": 30,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "MACD_Signal",
+    "batch": 3
+  },
+  {
+    "id": 31,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "MACD_Signal",
+    "batch": 4
+  },
+  {
+    "id": 32,
+    "nodes": 21,
+    "leaves": 11,
+    "root": "ATR",
+    "batch": 4
+  },
+  {
+    "id": 33,
+    "nodes": 37,
+    "leaves": 19,
+    "root": "OBV",
+    "batch": 4
+  },
+  {
+    "id": 34,
+    "nodes": 29,
+    "leaves": 15,
+    "root": "MACD_Signal",
+    "batch": 4
+  },
+  {
+    "id": 35,
+    "nodes": 35,
+    "leaves": 18,
+    "root": "MACD_Signal",
+    "batch": 4
+  },
+  {
+    "id": 36,
+    "nodes": 21,
+    "leaves": 11,
+    "root": "ATR",
+    "batch": 4
+  },
+  {
+    "id": 37,
+    "nodes": 35,
+    "leaves": 18,
+    "root": "regime_vol_ratio",
+    "batch": 4
+  },
+  {
+    "id": 38,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "ATR",
+    "batch": 4
+  },
+  {
+    "id": 39,
+    "nodes": 53,
+    "leaves": 27,
+    "root": "OBV",
+    "batch": 4
+  },
+  {
+    "id": 40,
+    "nodes": 37,
+    "leaves": 19,
+    "root": "regime_vol_ratio",
+    "batch": 4
+  },
+  {
+    "id": 41,
+    "nodes": 35,
+    "leaves": 18,
+    "root": "MACD_Signal",
+    "batch": 5
+  },
+  {
+    "id": 42,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "MACD_Signal",
+    "batch": 5
+  },
+  {
+    "id": 43,
+    "nodes": 21,
+    "leaves": 11,
+    "root": "ATR",
+    "batch": 5
+  },
+  {
+    "id": 44,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "ATR",
+    "batch": 5
+  },
+  {
+    "id": 45,
+    "nodes": 23,
+    "leaves": 12,
+    "root": "Vol_Chg",
+    "batch": 5
+  },
+  {
+    "id": 46,
+    "nodes": 29,
+    "leaves": 15,
+    "root": "MACD_Hist",
+    "batch": 5
+  },
+  {
+    "id": 47,
+    "nodes": 45,
+    "leaves": 23,
+    "root": "regime_vol_ratio",
+    "batch": 5
+  },
+  {
+    "id": 48,
+    "nodes": 25,
+    "leaves": 13,
+    "root": "Vol_Chg",
+    "batch": 5
+  },
+  {
+    "id": 49,
+    "nodes": 35,
+    "leaves": 18,
+    "root": "regime_vol_ratio",
+    "batch": 5
+  },
+  {
+    "id": 50,
+    "nodes": 35,
+    "leaves": 18,
+    "root": "OBV",
+    "batch": 5
+  },
+  {
+    "id": 51,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "MACD_Signal",
+    "batch": 6
+  },
+  {
+    "id": 52,
+    "nodes": 55,
+    "leaves": 28,
+    "root": "OBV",
+    "batch": 6
+  },
+  {
+    "id": 53,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "ATR",
+    "batch": 6
+  },
+  {
+    "id": 54,
+    "nodes": 29,
+    "leaves": 15,
+    "root": "Vol_Chg",
+    "batch": 6
+  },
+  {
+    "id": 55,
+    "nodes": 29,
+    "leaves": 15,
+    "root": "MACD_Hist",
+    "batch": 6
+  },
+  {
+    "id": 56,
+    "nodes": 41,
+    "leaves": 21,
+    "root": "regime_vol_ratio",
+    "batch": 6
+  },
+  {
+    "id": 57,
+    "nodes": 31,
+    "leaves": 16,
+    "root": "Vol_Chg",
+    "batch": 6
+  },
+  {
+    "id": 58,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "MACD_Signal",
+    "batch": 6
+  },
+  {
+    "id": 59,
+    "nodes": 29,
+    "leaves": 15,
+    "root": "MACD_Hist",
+    "batch": 6
+  },
+  {
+    "id": 60,
+    "nodes": 41,
+    "leaves": 21,
+    "root": "Vol_Chg",
+    "batch": 6
+  },
+  {
+    "id": 61,
+    "nodes": 53,
+    "leaves": 27,
+    "root": "OBV",
+    "batch": 7
+  },
+  {
+    "id": 62,
+    "nodes": 41,
+    "leaves": 21,
+    "root": "D_EMA20",
+    "batch": 7
+  },
+  {
+    "id": 63,
+    "nodes": 55,
+    "leaves": 28,
+    "root": "OBV",
+    "batch": 7
+  },
+  {
+    "id": 64,
+    "nodes": 35,
+    "leaves": 18,
+    "root": "MACD_Hist",
+    "batch": 7
+  },
+  {
+    "id": 65,
+    "nodes": 41,
+    "leaves": 21,
+    "root": "D_EMA20",
+    "batch": 7
+  },
+  {
+    "id": 66,
+    "nodes": 29,
+    "leaves": 15,
+    "root": "OBV",
+    "batch": 7
+  },
+  {
+    "id": 67,
+    "nodes": 43,
+    "leaves": 22,
+    "root": "Vol_Chg",
+    "batch": 7
+  },
+  {
+    "id": 68,
+    "nodes": 41,
+    "leaves": 21,
+    "root": "D_EMA20",
+    "batch": 7
+  },
+  {
+    "id": 69,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "OBV",
+    "batch": 7
+  },
+  {
+    "id": 70,
+    "nodes": 55,
+    "leaves": 28,
+    "root": "OBV",
+    "batch": 7
+  },
+  {
+    "id": 71,
+    "nodes": 35,
+    "leaves": 18,
+    "root": "MACD_Hist",
+    "batch": 8
+  },
+  {
+    "id": 72,
+    "nodes": 31,
+    "leaves": 16,
+    "root": "Vol_Chg",
+    "batch": 8
+  },
+  {
+    "id": 73,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "OBV",
+    "batch": 8
+  },
+  {
+    "id": 74,
+    "nodes": 37,
+    "leaves": 19,
+    "root": "D_EMA20",
+    "batch": 8
+  },
+  {
+    "id": 75,
+    "nodes": 31,
+    "leaves": 16,
+    "root": "OBV",
+    "batch": 8
+  },
+  {
+    "id": 76,
+    "nodes": 19,
+    "leaves": 10,
+    "root": "ATR",
+    "batch": 8
+  },
+  {
+    "id": 77,
+    "nodes": 43,
+    "leaves": 22,
+    "root": "Vol_Chg",
+    "batch": 8
+  },
+  {
+    "id": 78,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "Vol_Chg",
+    "batch": 8
+  },
+  {
+    "id": 79,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "MACD_Hist",
+    "batch": 8
+  },
+  {
+    "id": 80,
+    "nodes": 37,
+    "leaves": 19,
+    "root": "D_EMA20",
+    "batch": 8
+  },
+  {
+    "id": 81,
+    "nodes": 29,
+    "leaves": 15,
+    "root": "OBV",
+    "batch": 9
+  },
+  {
+    "id": 82,
+    "nodes": 55,
+    "leaves": 28,
+    "root": "OBV",
+    "batch": 9
+  },
+  {
+    "id": 83,
+    "nodes": 53,
+    "leaves": 27,
+    "root": "OBV",
+    "batch": 9
+  },
+  {
+    "id": 84,
+    "nodes": 21,
+    "leaves": 11,
+    "root": "Vol_Chg",
+    "batch": 9
+  },
+  {
+    "id": 85,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "D_EMA20",
+    "batch": 9
+  },
+  {
+    "id": 86,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "MACD_Hist",
+    "batch": 9
+  },
+  {
+    "id": 87,
+    "nodes": 31,
+    "leaves": 16,
+    "root": "regime_ema_spread",
+    "batch": 9
+  },
+  {
+    "id": 88,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "Vol_Chg",
+    "batch": 9
+  },
+  {
+    "id": 89,
+    "nodes": 35,
+    "leaves": 18,
+    "root": "regime_adx",
+    "batch": 9
+  },
+  {
+    "id": 90,
+    "nodes": 33,
+    "leaves": 17,
+    "root": "MACD_Hist",
+    "batch": 9
+  },
+  {
+    "id": 91,
+    "nodes": 19,
+    "leaves": 10,
+    "root": "regime_ema_spread",
+    "batch": 10
+  },
+  {
+    "id": 92,
+    "nodes": 23,
+    "leaves": 12,
+    "root": "Vol_Chg",
+    "batch": 10
+  },
+  {
+    "id": 93,
+    "nodes": 21,
+    "leaves": 11,
+    "root": "regime_ema_spread",
+    "batch": 10
+  },
+  {
+    "id": 94,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "regime_adx",
+    "batch": 10
+  },
+  {
+    "id": 95,
+    "nodes": 39,
+    "leaves": 20,
+    "root": "regime_adx",
+    "batch": 10
+  },
+  {
+    "id": 96,
+    "nodes": 19,
+    "leaves": 10,
+    "root": "regime_ema_spread",
+    "batch": 10
+  },
+  {
+    "id": 97,
+    "nodes": 29,
+    "leaves": 15,
+    "root": "OBV",
+    "batch": 10
+  },
+  {
+    "id": 98,
+    "nodes": 45,
+    "leaves": 23,
+    "root": "regime_adx",
+    "batch": 10
+  },
+  {
+    "id": 99,
+    "nodes": 53,
+    "leaves": 27,
+    "root": "OBV",
+    "batch": 10
+  },
+  {
+    "id": 100,
+    "nodes": 19,
+    "leaves": 10,
+    "root": "regime_ema_spread",
+    "batch": 10
+  }
+]

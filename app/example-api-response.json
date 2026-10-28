@@ -1,0 +1,613 @@
+{
+  "status": "success",
+  "message": "Data prediksi untuk tanggal 2026-10-08 berhasil diambil (Data Baru dari Yahoo Finance)",
+  "data": {
+    "id": "pred-20261008",
+    "status": "pending",
+    "tanggal": "2026-10-08",
+    "summary": {
+      "prediction": "up",
+      "reference_closing_date": "08 Oct 2026",
+      "reference_closing_price": 82605.23,
+      "next_closing_date": "2026-10-09",
+      "next_closing_price": null,
+      "result": "pending",
+      "probability": 84.57,
+      "countdown_text": null
+    },
+    "calculation": {
+      "base_margin": 0.0,
+      "total_leaf_score": 1.6734,
+      "margin_aktar": 1.6734,
+      "probability_up": 84.57
+    },
+    "features": [
+      {
+        "name": "RSI",
+        "value": 50.3378
+      },
+      {
+        "name": "MACD",
+        "value": 1635.6987
+      },
+      {
+        "name": "MACD_Signal",
+        "value": 1956.2157
+      },
+      {
+        "name": "MACD_Hist",
+        "value": -320.5171
+      },
+      {
+        "name": "Log_Ret",
+        "value": -0.0351
+      },
+      {
+        "name": "ATR",
+        "value": 2166.4397
+      },
+      {
+        "name": "D_EMA20",
+        "value": 0.9902
+      },
+      {
+        "name": "D_EMA200",
+        "value": 1.0995
+      },
+      {
+        "name": "BBW",
+        "value": 0.0794
+      },
+      {
+        "name": "OBV",
+        "value": -495990676278.0
+      },
+      {
+        "name": "Vol_Chg",
+        "value": 0.3724
+      },
+      {
+        "name": "Day_Sin",
+        "value": 0.4339
+      },
+      {
+        "name": "Day_Cos",
+        "value": -0.901
+      },
+      {
+        "name": "Mon_Sin",
+        "value": -0.866
+      },
+      {
+        "name": "Mon_Cos",
+        "value": 0.5
+      },
+      {
+        "name": "regime_trend_strength",
+        "value": 0.0995
+      },
+      {
+        "name": "regime_vol_ratio",
+        "value": 0.9695
+      },
+      {
+        "name": "regime_adx",
+        "value": 42.6134
+      },
+      {
+        "name": "regime_rsi_norm",
+        "value": 0.0068
+      },
+      {
+        "name": "regime_ema_spread",
+        "value": 0.1104
+      },
+      {
+        "name": "regime_vol_trend",
+        "value": -0.0022
+      }
+    ],
+    "trees": [
+      {
+        "id": 0,
+        "leafId": 29,
+        "leafScore": 0.07520617
+      },
+      {
+        "id": 1,
+        "leafId": 29,
+        "leafScore": 0.0719068
+      },
+      {
+        "id": 2,
+        "leafId": 29,
+        "leafScore": 0.06891744
+      },
+      {
+        "id": 3,
+        "leafId": 29,
+        "leafScore": 0.06619096
+      },
+      {
+        "id": 4,
+        "leafId": 29,
+        "leafScore": 0.06626343
+      },
+      {
+        "id": 5,
+        "leafId": 28,
+        "leafScore": 0.04441062
+      },
+      {
+        "id": 6,
+        "leafId": 29,
+        "leafScore": 0.06015153
+      },
+      {
+        "id": 7,
+        "leafId": 30,
+        "leafScore": 0.04136404
+      },
+      {
+        "id": 8,
+        "leafId": 27,
+        "leafScore": 0.05694657
+      },
+      {
+        "id": 9,
+        "leafId": 27,
+        "leafScore": 0.00382012
+      },
+      {
+        "id": 10,
+        "leafId": 31,
+        "leafScore": 0.05431831
+      },
+      {
+        "id": 11,
+        "leafId": 27,
+        "leafScore": 0.02148324
+      },
+      {
+        "id": 12,
+        "leafId": 33,
+        "leafScore": 0.05186332
+      },
+      {
+        "id": 13,
+        "leafId": 27,
+        "leafScore": -0.06791063
+      },
+      {
+        "id": 14,
+        "leafId": 29,
+        "leafScore": 0.04952242
+      },
+      {
+        "id": 15,
+        "leafId": 29,
+        "leafScore": 0.01953592
+      },
+      {
+        "id": 16,
+        "leafId": 7,
+        "leafScore": 0.01931771
+      },
+      {
+        "id": 17,
+        "leafId": 7,
+        "leafScore": 0.01885518
+      },
+      {
+        "id": 18,
+        "leafId": 31,
+        "leafScore": 0.07051988
+      },
+      {
+        "id": 19,
+        "leafId": 26,
+        "leafScore": -0.02301495
+      },
+      {
+        "id": 20,
+        "leafId": 20,
+        "leafScore": -0.01420719
+      },
+      {
+        "id": 21,
+        "leafId": 30,
+        "leafScore": 0.05202257
+      },
+      {
+        "id": 22,
+        "leafId": 26,
+        "leafScore": 0.06722029
+      },
+      {
+        "id": 23,
+        "leafId": 20,
+        "leafScore": -0.01497381
+      },
+      {
+        "id": 24,
+        "leafId": 26,
+        "leafScore": 0.05089971
+      },
+      {
+        "id": 25,
+        "leafId": 24,
+        "leafScore": 0.05774589
+      },
+      {
+        "id": 26,
+        "leafId": 23,
+        "leafScore": 0.0152729
+      },
+      {
+        "id": 27,
+        "leafId": 27,
+        "leafScore": 0.05146896
+      },
+      {
+        "id": 28,
+        "leafId": 28,
+        "leafScore": 0.01706188
+      },
+      {
+        "id": 29,
+        "leafId": 22,
+        "leafScore": 0.05664388
+      },
+      {
+        "id": 30,
+        "leafId": 26,
+        "leafScore": 0.06532157
+      },
+      {
+        "id": 31,
+        "leafId": 20,
+        "leafScore": -0.00217238
+      },
+      {
+        "id": 32,
+        "leafId": 24,
+        "leafScore": 0.01625834
+      },
+      {
+        "id": 33,
+        "leafId": 21,
+        "leafScore": 0.02654247
+      },
+      {
+        "id": 34,
+        "leafId": 24,
+        "leafScore": 0.021502
+      },
+      {
+        "id": 35,
+        "leafId": 20,
+        "leafScore": -0.0018426
+      },
+      {
+        "id": 36,
+        "leafId": 34,
+        "leafScore": -0.00397609
+      },
+      {
+        "id": 37,
+        "leafId": 30,
+        "leafScore": 0.000303
+      },
+      {
+        "id": 38,
+        "leafId": 41,
+        "leafScore": 0.0078355
+      },
+      {
+        "id": 39,
+        "leafId": 36,
+        "leafScore": -0.00383995
+      },
+      {
+        "id": 40,
+        "leafId": 25,
+        "leafScore": 0.04938
+      },
+      {
+        "id": 41,
+        "leafId": 28,
+        "leafScore": 0.00364857
+      },
+      {
+        "id": 42,
+        "leafId": 19,
+        "leafScore": 0.0102702
+      },
+      {
+        "id": 43,
+        "leafId": 30,
+        "leafScore": 0.00047937
+      },
+      {
+        "id": 44,
+        "leafId": 8,
+        "leafScore": 0.04330406
+      },
+      {
+        "id": 45,
+        "leafId": 19,
+        "leafScore": 0.06982587
+      },
+      {
+        "id": 46,
+        "leafId": 40,
+        "leafScore": 0.00805234
+      },
+      {
+        "id": 47,
+        "leafId": 8,
+        "leafScore": 0.04179927
+      },
+      {
+        "id": 48,
+        "leafId": 31,
+        "leafScore": 0.0010763
+      },
+      {
+        "id": 49,
+        "leafId": 10,
+        "leafScore": 0.00435358
+      },
+      {
+        "id": 50,
+        "leafId": 28,
+        "leafScore": 0.06033428
+      },
+      {
+        "id": 51,
+        "leafId": 43,
+        "leafScore": 0.0071555
+      },
+      {
+        "id": 52,
+        "leafId": 30,
+        "leafScore": 0.00044454
+      },
+      {
+        "id": 53,
+        "leafId": 13,
+        "leafScore": 0.01130497
+      },
+      {
+        "id": 54,
+        "leafId": 24,
+        "leafScore": 0.00199387
+      },
+      {
+        "id": 55,
+        "leafId": 39,
+        "leafScore": -0.01436609
+      },
+      {
+        "id": 56,
+        "leafId": 13,
+        "leafScore": 0.0113013
+      },
+      {
+        "id": 57,
+        "leafId": 28,
+        "leafScore": 0.05877926
+      },
+      {
+        "id": 58,
+        "leafId": 19,
+        "leafScore": 0.06394667
+      },
+      {
+        "id": 59,
+        "leafId": 28,
+        "leafScore": 0.00167976
+      },
+      {
+        "id": 60,
+        "leafId": 21,
+        "leafScore": -0.02416221
+      },
+      {
+        "id": 61,
+        "leafId": 40,
+        "leafScore": 0.00184018
+      },
+      {
+        "id": 62,
+        "leafId": 21,
+        "leafScore": -0.02370456
+      },
+      {
+        "id": 63,
+        "leafId": 21,
+        "leafScore": 0.06129703
+      },
+      {
+        "id": 64,
+        "leafId": 38,
+        "leafScore": -0.0390992
+      },
+      {
+        "id": 65,
+        "leafId": 23,
+        "leafScore": 0.00760229
+      },
+      {
+        "id": 66,
+        "leafId": 27,
+        "leafScore": -0.01260576
+      },
+      {
+        "id": 67,
+        "leafId": 40,
+        "leafScore": 0.0017396
+      },
+      {
+        "id": 68,
+        "leafId": 31,
+        "leafScore": -0.00433422
+      },
+      {
+        "id": 69,
+        "leafId": 41,
+        "leafScore": 0.00702272
+      },
+      {
+        "id": 70,
+        "leafId": 21,
+        "leafScore": 0.05900545
+      },
+      {
+        "id": 71,
+        "leafId": 22,
+        "leafScore": -0.00668623
+      },
+      {
+        "id": 72,
+        "leafId": 22,
+        "leafScore": 0.02218538
+      },
+      {
+        "id": 73,
+        "leafId": 36,
+        "leafScore": -0.00134378
+      },
+      {
+        "id": 74,
+        "leafId": 10,
+        "leafScore": 0.0027026
+      },
+      {
+        "id": 75,
+        "leafId": 18,
+        "leafScore": -0.00051613
+      },
+      {
+        "id": 76,
+        "leafId": 27,
+        "leafScore": -0.01150467
+      },
+      {
+        "id": 77,
+        "leafId": 21,
+        "leafScore": -0.0045218
+      },
+      {
+        "id": 78,
+        "leafId": 19,
+        "leafScore": 0.00032926
+      },
+      {
+        "id": 79,
+        "leafId": 36,
+        "leafScore": -0.00056231
+      },
+      {
+        "id": 80,
+        "leafId": 24,
+        "leafScore": -0.00040779
+      },
+      {
+        "id": 81,
+        "leafId": 41,
+        "leafScore": 0.00654519
+      },
+      {
+        "id": 82,
+        "leafId": 38,
+        "leafScore": 0.05723892
+      },
+      {
+        "id": 83,
+        "leafId": 20,
+        "leafScore": -0.00024219
+      },
+      {
+        "id": 84,
+        "leafId": 32,
+        "leafScore": -0.00119984
+      },
+      {
+        "id": 85,
+        "leafId": 21,
+        "leafScore": 0.04019212
+      },
+      {
+        "id": 86,
+        "leafId": 20,
+        "leafScore": -0.0008196
+      },
+      {
+        "id": 87,
+        "leafId": 21,
+        "leafScore": -0.00454746
+      },
+      {
+        "id": 88,
+        "leafId": 26,
+        "leafScore": 0.00815699
+      },
+      {
+        "id": 89,
+        "leafId": 20,
+        "leafScore": 0.00283834
+      },
+      {
+        "id": 90,
+        "leafId": 17,
+        "leafScore": 0.00902876
+      },
+      {
+        "id": 91,
+        "leafId": 15,
+        "leafScore": -0.0013768
+      },
+      {
+        "id": 92,
+        "leafId": 18,
+        "leafScore": -0.04752224
+      },
+      {
+        "id": 93,
+        "leafId": 31,
+        "leafScore": -0.04396819
+      },
+      {
+        "id": 94,
+        "leafId": 31,
+        "leafScore": -0.04276983
+      },
+      {
+        "id": 95,
+        "leafId": 17,
+        "leafScore": 0.00843959
+      },
+      {
+        "id": 96,
+        "leafId": 24,
+        "leafScore": -0.00056098
+      },
+      {
+        "id": 97,
+        "leafId": 37,
+        "leafScore": 0.00318272
+      },
+      {
+        "id": 98,
+        "leafId": 21,
+        "leafScore": -0.02244393
+      },
+      {
+        "id": 99,
+        "leafId": 17,
+        "leafScore": -0.0006101
+      }
+    ]
+  }
+}
